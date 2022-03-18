@@ -5,7 +5,7 @@ TEAM Nekozounekoは、Nekozounekoが運営するチームです。
 ここでは、開発した色々なもののレポジトリが作成されます。
 
 > ほぼ[@Taitaitatata](https://github.com/Taitaitatata)が開発してます。ブラックすぎやろ<br>
-> (るんくさんももちろん頑張ってるけどな)
+> (るんくさんももちろん頑張ってるけどな (GitHubでは活動してないです))
 
 ## TEAM Nekozouneko について
 Minecraftなどを主に活動しているチームです。<br/>
