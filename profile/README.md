@@ -32,4 +32,4 @@ Minecraftなどを主に活動しているチームです。<br/>
 
 > ### TEAM Nekozouneko Links
 > [Discord](https://nekozouneko.ddns.net/discord) | [Twitter](https://twitter.com/TEAMNekozouneko) | [YouTube](https://youtube.com/TEAMNekozouneko)<br>
-> Copyright 2021-2022 TEAM Nekozouneko and Taitaitatata.
+> Copyright 2021-2022 TEAM Nekozouneko, Taitaitatata and Runq_JP.
