@@ -17,6 +17,8 @@ Minecraftなどを主に活動しているチームです。<br/>
 * NKZNK-Spigot - https://github.com/TEAMNekozouneko/NKZNK-Spigot
 * StatisticBot - https://github.com/TEAMNekozouneko/StatisticBot
 * PluginControl - https://github.com/TEAMNekozouneko/PluginControl
+* AoiLauncher - https://github.com/TEAMNekozouneko/AoiLauncher
+  * AoiModPacks - https://github.com/TEAMNekozouneko/AoiModPacks
 
 ## 一生更新されないかもしれないやつら
 > こいつらはおそらく一生更新されない可能性が高いです。
