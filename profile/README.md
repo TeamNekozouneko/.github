@@ -16,7 +16,7 @@ TEAM Nekozounekoは、Nekozounekoが運営するチームです。
 * UserLookups - https://github.com/TEAMNekozouneko/UserLookups
 * NUtils - https://github.com/TEAMNekozouneko/NUtils
 * SugorokuPlugin - https://github.com/TEAMNekozouneko/SugorokuPlugin
-* NekoHub - https://github.com/TEAMNekozouneko/NekoHub
+* NekoHubv1 - https://github.com/TEAMNekozouneko/NekoHubv1
 * NKZNK - https://github.com/TEAMNekozouneko/NKZNK
 * NKZNK-Spigot - https://github.com/TEAMNekozouneko/NKZNK-Spigot
 * StatisticBot - https://github.com/TEAMNekozouneko/StatisticBot
