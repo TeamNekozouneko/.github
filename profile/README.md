@@ -5,17 +5,10 @@ TEAM Nekozounekoは、Nekozounekoが運営するチームです。
 
 主にマイクラ関連のプログラムです。
 
-> ほぼ[@Taitaitatata](https://github.com/Taitaitatata)が開発してます。ブラックすぎやろ<br>
-> (るんくさんももちろん頑張ってるけどな (GitHubでは活動してないです))
-
-## TEAM Nekozouneko について
-Minecraftなどを主に活動しているチームです。<br/>
-ここではそれで開発された色々なものが公開されています。
-
 ## 現行開発してるもの
 > 開発を失踪してるものもあります。
 * NekoHubv2 - https://github.com/TEAMNekozouneko/NekoHubv2
-* NekozoLauncher - https://github.com/TeamNekozouneko/NekozoLauncher
+* NANNI - https://github.com/TeamNekozouneko/NANNI
 
 ## 一生更新されないかもしれないやつら
 > こいつらはおそらく一生更新されない可能性が高いです。
@@ -33,6 +26,7 @@ Minecraftなどを主に活動しているチームです。<br/>
 * MCCL - https://github.com/TEAMNekozouneko/MCCL
 * NekoPvP - https://github.com/TEAMNekozouneko/NekoPvP
 * NPLib - https://github.com/TEAMNekozouneko/NPLib
+* NekozoLauncher - https://github.com/TeamNekozouneko/NekozoLauncher
 
 ***
 
