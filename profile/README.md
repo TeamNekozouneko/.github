@@ -1,8 +1,9 @@
-<h1 align="center">TEAM Nekozouneko</h1>
-Team Nekozounekoは、Nekozounekoが運営するチームです。
+<h1 align="center">Team Nekozouneko Devへようこそ!</h1>
+Team Nekozouneko Devは、Nekozounekoが運営するチームです。
 
-ここでは、開発した色々なもののレポジトリが作成されます。
-
+ここでは、開発した色々なもののレポジトリが作成されています。
 主にマイクラ関連のプログラムです。
 
-> Copyright 2021-2024 Team Nekozouneko.
+
+> ### Team Nekozouneko Links
+> [Home Page](https://nekozouneko.net/) | [Twitter](https://twitter.com/NekozounekoSRV) | [YouTube](https://youtube.com/NekozounekoSba)<br>
